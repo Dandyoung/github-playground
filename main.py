@@ -16,11 +16,15 @@ def test_func(name:str, age:int):
     """
     입력된 인물의 이름과 나이를 출력합니다.
     """
-    return f"{name}의 나이는 {age}세 입니다."
+    print(f"{name}의 나이는 {age}세 입니다.")
 
 def main():
     name = "이영우"
     age = 31
+    test_func(name, age)
+
+    name = "김동건"
+    age = 312
     test_func(name, age)
 
 
