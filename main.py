@@ -40,5 +40,6 @@ def main():
 
 if __name__ == "__main__":
     p = "git worktree test"
+    p = "git remote remove & reconnect test"
     print(p)
     main()
