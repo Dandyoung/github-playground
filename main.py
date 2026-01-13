@@ -39,6 +39,6 @@ def main():
 
 
 if __name__ == "__main__":
-    p = "git rebase test"
+    p = "git another local repo test"
     print(p)
     main()
