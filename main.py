@@ -39,6 +39,6 @@ def main():
 
 
 if __name__ == "__main__":
-    p = "git another local repo test+test 2commit"
+    p = "git worktree test"
     print(p)
     main()
