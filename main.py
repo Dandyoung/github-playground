@@ -32,5 +32,5 @@ def main():
 
 
 if __name__ == "__main__":
-    print("local repo + branch test")
+    print("local repo + branch test ")
     main()
