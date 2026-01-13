@@ -27,6 +27,9 @@ def main():
     age = 31
     test_func(name, age)
 
+    name = "이스응"
+    age = 31
+    test_func(name, age)
 
 
 if __name__ == "__main__":
