@@ -33,4 +33,6 @@ def main():
 
 
 if __name__ == "__main__":
+    p = "git rebase test"
+    print(p)
     main()
